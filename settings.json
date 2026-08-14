@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "Manja rana",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "Thegreatserver-DWmZ.aternos.me",
     "port": 25131,
-    "version": "1.21.1"
+    "version": "26.40"
   },
   "position": {
     "enabled": true,
